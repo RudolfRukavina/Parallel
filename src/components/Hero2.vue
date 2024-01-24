@@ -14,10 +14,10 @@
       </a>
       <h1 class="mb-4 text-5xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl ">
         Poduke Parallel</h1>
-      <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 ">Dobrodošli u poduke Parallel. Naša
-        raznolika znanja, stečena kroz različite fakultetske discipline, postavila su temelj za stvaranje inovativnog
-        pristupa učenju. Odlučili smo poduzeti korake ka stvaranju vlastite škole, gdje bismo mogli dijeliti svoje bogato
-        iskustvo i olakšati učenje drugima.
+      <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 ">
+
+        Dobrodošli u Parallel poduke. Naš cilj je olakšati učenje kroz jedinstven
+        pristup dijeljenja iskustva i znanja, podržavajući druge u njihovom obrazovnom putovanju.
       </p>
       <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
         <a href="#"

@@ -1,7 +1,7 @@
 <template>
   <ul>
     <li>
-      <a class="facebook" target="_blank" href="https://www.facebook.com/poduke.parallel">
+      <a class="phone" href="tel:+385917865619">
         <span></span>
         <span></span>
         <span></span>
@@ -136,6 +136,14 @@ ul li a:hover span:nth-child(4) {
 
 .facebook:hover span {
   background: #3b5998;
+}
+
+.phone:hover {
+  color: #3d983b;
+}
+
+.phone:hover span {
+  background: #3d983b;
 }
 
 .twitter:hover {
