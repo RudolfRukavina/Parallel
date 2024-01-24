@@ -7,7 +7,9 @@
         <span class="self-center text-2xl font-semibold whitespace-nowrap ">Poduke Parallel</span>
       </a>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
-        <a href="tel:+385992053344" class="text-sm  text-gray-500  hover:underline">Riva 20, Rijeka</a>
+        <a target='_blank' href="https://maps.app.goo.gl/XEUnraXJc16pw9ur7"
+          class="text-sm  text-gray-500  hover:underline">Riva 20,
+          Rijeka</a>
       </div>
     </div>
   </nav>
