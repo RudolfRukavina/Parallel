@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white">
+  <section class="bg-white border-b-4">
     <div class="py-4 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
       <a href="#"
         class="inline-flex justify-between items-center py-1 px-1 pr-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full   "
@@ -21,7 +21,7 @@
       </p>
       <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
         <a href="#"
-          class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 ">
+          class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100  shadow">
 
           O nama
           <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -34,7 +34,6 @@
 
     </div>
   </section>
-  <hr class=" border-gray-200 sm:mx-auto " />
 </template>
 
 <script setup>
