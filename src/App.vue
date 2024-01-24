@@ -4,9 +4,7 @@
 </script>
 
 <template>
-  <header>
-    <Navbar></Navbar>
-  </header>
+  <Navbar></Navbar>
 
   <RouterView />
 </template>

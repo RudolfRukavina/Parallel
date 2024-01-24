@@ -1,17 +1,16 @@
 <template>
-  <div
-    class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
+  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100'>
 
 
     <div class='flex justify-center'>
       <img class='w-3/4 rounded-xl' src="../assets/parallelpripreme.png" alt="">
     </div>
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Pripreme za državnu maturu</h5>
-    <p class="font-normal text-gray-700 dark:text-gray-400 text-lg">Uspješno savladajte
+    <p class="font-normal text-gray-700  text-lg">Uspješno savladajte
       gradiva neophodna za polaganje mature.</p>
 
     <a href="#"
-      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
       Pregled cijena
       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
         viewBox="0 0 14 10">
@@ -22,17 +21,16 @@
 
 
   </div>
-  <div
-    class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
+  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100  '>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Instrukcije</h5>
 
-    <p class="font-normal text-gray-700 dark:text-gray-400 text-lg">Instrukcije prilagođene osnovnoškolskim,
+    <p class="font-normal text-gray-700  text-lg">Instrukcije prilagođene osnovnoškolskim,
       srednjoškolskim i fakultetskim razinama, prateći individualne potrebe svakog učenika.</p>
 
     <a href="#"
-      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
       Pregled cijena
       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
         viewBox="0 0 14 10">
@@ -41,19 +39,18 @@
       </svg>
     </a>
   </div>
-  <div
-    class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
+  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Pomoć u pisanju <span
         class='font-extrabold'>seminara</span></h5>
 
-    <p class="font-normal text-gray-700 dark:text-gray-400 text-lg">Nudimo personaliziranu pomoć u pisanju seminara,
+    <p class="font-normal text-gray-700  text-lg">Nudimo personaliziranu pomoć u pisanju seminara,
       projekata, lektira i zadaća. Naši stručnjaci će vam pružiti podršku u razvoju vaših ideja, strukturiranju teksta i
       postizanju akademskog uspjeha.</p>
 
     <a href="#"
-      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
       Pregled cijena
       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
         viewBox="0 0 14 10">
@@ -62,17 +59,16 @@
       </svg>
     </a>
   </div>
-  <div
-    class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
+  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Priprema za natjecanja</h5>
 
-    <p class="font-normal text-gray-700 dark:text-gray-400 text-lg">Naš program priprema naglašava ključna područja
+    <p class="font-normal text-gray-700  text-lg">Naš program priprema naglašava ključna područja
       natjecanja, pružajući vam znanje, vještine i samopouzdanje potrebno za postizanje vrhunskih rezultata.</p>
 
     <a href="#"
-      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
       Pregled cijena
       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
         viewBox="0 0 14 10">
@@ -81,18 +77,17 @@
       </svg>
     </a>
   </div>
-  <div
-    class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700'>
+  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Organizacija seminara</h5>
 
-    <p class="font-normal text-gray-700 dark:text-gray-400 text-lg">Organizirajte uspješan seminar uz našu stručnu
+    <p class="font-normal text-gray-700  text-lg">Organizirajte uspješan seminar uz našu stručnu
       podršku. Bez obzira na temu, naša iskusna organizacija seminara prilagodit će se vašim potrebama, osiguravajući
       besprijekorno planiranje, izvođenje i evaluaciju događaja.</p>
 
     <a href="#"
-      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+      class="inline-flex font-medium text-sm m-2 items-center px-3 py-2  text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 ">
       Pregled cijena
       <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none"
         viewBox="0 0 14 10">

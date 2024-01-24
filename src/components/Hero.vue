@@ -21,7 +21,7 @@
       <div class="flex flex-col mb-8 lg:mb-16 space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
 
         <a href="#"
-          class="inline-flex justify-center items-center    border  text-lg border-gray-700 hover:bg-gray-700 text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 font-medium rounded-lg px-5 py-2.5 text-center me-2 mb-2">
+          class="inline-flex justify-center items-center    border  text-lg border-gray-700 hover:bg-gray-700 text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300  font-medium rounded-lg px-5 py-2.5 text-center me-2 mb-2">
 
           Nazovite nas
         </a>

@@ -6,6 +6,15 @@
         <span></span>
         <span></span>
         <span></span>
+        <i class="fa fa-phone" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook" target="_blank" href="https://www.facebook.com/poduke.parallel">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
         <i class="fa fa-facebook" aria-hidden="true"></i>
       </a>
     </li>
