@@ -1,10 +1,10 @@
 <template>
-  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100'>
+  <div class=' text-center p-6 border-gray-200 rounded-2xl shadow bg-gray-50 border-2 m-1 hover:bg-gray-100'>
 
-
+    <!--
     <div class='flex justify-center'>
       <img class='w-3/4 rounded-xl' src="../assets/parallelpripreme.png" alt="">
-    </div>
+    </div> -->
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Pripreme za državnu maturu</h5>
     <p class="font-normal text-gray-700  text-lg">Uspješno savladajte
       gradiva neophodna za polaganje mature.</p>
@@ -21,7 +21,7 @@
 
 
   </div>
-  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100  '>
+  <div class=' text-center p-6 border-gray-200 rounded-2xl shadow bg-gray-50 border-2 m-1 hover:bg-gray-100'>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Instrukcije</h5>
@@ -39,7 +39,7 @@
       </svg>
     </a>
   </div>
-  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
+  <div class=' text-center p-6 border-gray-200 rounded-2xl shadow bg-gray-50 border-2 m-1 hover:bg-gray-100'>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Pomoć u pisanju <span
@@ -59,7 +59,7 @@
       </svg>
     </a>
   </div>
-  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
+  <div class=' text-center p-6 border-gray-200 rounded-2xl shadow bg-gray-50 border-2 m-1 hover:bg-gray-100'>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Priprema za natjecanja</h5>
@@ -77,7 +77,7 @@
       </svg>
     </a>
   </div>
-  <div class=' w-full text-center p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 '>
+  <div class=' text-center p-6 border-gray-200 rounded-2xl shadow bg-gray-50 border-2 m-1 hover:bg-gray-100'>
 
 
     <h5 class="my-2 text-3xl font-bold tracking-tight text-gray-900">Organizacija seminara</h5>

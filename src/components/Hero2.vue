@@ -34,6 +34,7 @@
 
     </div>
   </section>
+  <hr class=" border-gray-200 sm:mx-auto " />
 </template>
 
 <script setup>

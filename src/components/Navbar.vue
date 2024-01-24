@@ -13,7 +13,7 @@
       </div>
     </div>
   </nav>
-  <nav class="bg-gray-50 sticky top-0">
+  <nav class="bg-gray-50 sticky top-0 shadow-lg">
     <div class="max-w-screen-xl px-4 py-3 mx-auto">
       <div class="flex items-center justify-between">
         <ul class="flex flex-row font-medium mt-0 space-x-4 rtl:space-x-reverse text-sm">
