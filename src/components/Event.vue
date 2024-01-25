@@ -1,8 +1,8 @@
 <template>
-  <div class='bg-sky-100 py-1 '>
+  <div class='box-shadow2 py-1 border-y-2 lg:grid lg:grid-cols-2'>
 
 
-    <div class=' text-center p-6 border-gray-200 rounded-2xl box-shadow1 bg-gray-50 m-4 hover:bg-gray-100'>
+    <div class='text-center p-6 border-gray-200 rounded-2xl box-shadow1 bg-gray-50 m-4 hover:bg-gray-100 col-span-2'>
 
       <!--
     <div class='flex justify-center'>
@@ -110,5 +110,9 @@
 <style scoped>
 .box-shadow1 {
   box-shadow: rgba(124, 124, 124, 0.4) 0px 2px 4px, rgba(89, 89, 89, 0.3) 0px 7px 13px -3px, rgba(112, 112, 112, 0.2) 0px -3px 0px inset;
+}
+
+.box-shadow2 {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 </style>

@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "flowbite": "^2.2.1",
+    "keen-slider": "^6.8.6",
     "pinia": "^2.1.7",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
