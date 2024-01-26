@@ -1,8 +1,8 @@
 
 
 <template>
-  <footer class="bg m-[4px] rounded-t-lg">
-    <div class="mx-auto w-full max-w-screen-xl px-4 pb-6 lg:pb-8">
+  <footer class="footer-bg m-[4px] mb-[1px] rounded-t-lg">
+    <div class="mx-auto w-full max-w-screen-xl px-4 pb-3 lg:pb-6">
 
       <!-- <div class="md:flex md:justify-between">
 
@@ -25,20 +25,18 @@
 
       </div> -->
       <hr class=" py-2 border-gray-200 w-full " />
-      <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+      <div class=" grid-cols-2 flex justify-evenly gap-8 sm:gap-6 sm:grid-cols-3">
 
         <div>
-          <h2 class="mb-2 text-sm font-semibold text-gray-900 uppercase">Prava</h2>
           <ul class="text-gray-500 font-medium">
-            <li class="mb-2">
+            <li class="">
               <a href="https://www.facebook.com/poduke.parallel" class="hover:underline ">Politika Privatnosti</a>
             </li>
           </ul>
         </div>
         <div>
-          <h2 class="mb-2 text-sm font-semibold text-gray-900 uppercase ">Prava</h2>
           <ul class="text-gray-500  font-medium">
-            <li class='mb-2'>
+            <li class=''>
               <a href="#" class="hover:underline">Uvjeti korištenja</a>
             </li>
 
@@ -46,7 +44,7 @@
         </div>
       </div>
       <hr class="my-4 border-gray-200 sm:mx-auto  lg:my-6" />
-      <div class="sm:flex sm:items-center sm:justify-between">
+      <div class=" items-center text-center justify-center">
         <span class="text-sm text-gray-500 sm:text-center ">© 2024 <a href="/" class="hover:underline">Parallel d.o.o.</a>
           Sva prava zadržana.
 
@@ -101,7 +99,7 @@
 </script>
 
 <style scoped>
-.bg {
+.footer-bg {
   background: rgb(1, 236, 154);
   background: linear-gradient(30deg, rgba(90, 211, 255, 0.31) 18%, rgba(193, 255, 127, 0.24) 80%);
   box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
