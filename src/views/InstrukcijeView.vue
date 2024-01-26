@@ -63,7 +63,7 @@
           </h2>
           <ul class="text-gray-500 font-medium">
             <li class="mb-4">
-              <a href="https://github.com/themesberg/flowbite" class="hover:underline">Facebook</a>
+              <a href="https://www.facebook.com/poduke.parallel" class="hover:underline">Facebook</a>
             </li>
             <li>
               <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Instagram</a>
@@ -87,7 +87,7 @@
       <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
       <div class="sm:flex sm:items-center sm:justify-between">
         <span class="text-sm text-gray-500 sm:text-center">© 2024
-          <a href="https://flowbite.com/" class="hover:underline">Parallel d.o.o.</a>
+          <a href="" class="hover:underline">Parallel d.o.o.</a>
           Sva prava zadržana.
         </span>
       </div>
