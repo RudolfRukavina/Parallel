@@ -1,7 +1,7 @@
 
 
 <template>
-  <footer class="bg">
+  <footer class="bg m-[4px] rounded-t-lg">
     <div class="mx-auto w-full max-w-screen-xl px-4 pb-6 lg:pb-8">
 
       <!-- <div class="md:flex md:justify-between">
@@ -28,29 +28,24 @@
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
 
         <div>
-          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase">Zapratite nas</h2>
+          <h2 class="mb-2 text-sm font-semibold text-gray-900 uppercase">Prava</h2>
           <ul class="text-gray-500 font-medium">
-            <li class="mb-4">
-              <a href="https://www.facebook.com/poduke.parallel" class="hover:underline ">Facebook</a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/poduke.parallel/" class="hover:underline">Instagram</a>
+            <li class="mb-2">
+              <a href="https://www.facebook.com/poduke.parallel" class="hover:underline ">Politika Privatnosti</a>
             </li>
           </ul>
         </div>
         <div>
-          <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase ">Prava</h2>
+          <h2 class="mb-2 text-sm font-semibold text-gray-900 uppercase ">Prava</h2>
           <ul class="text-gray-500  font-medium">
-            <li class="mb-4">
-              <a href="#" class="hover:underline">Politika Privatnosti</a>
-            </li>
-            <li>
+            <li class='mb-2'>
               <a href="#" class="hover:underline">Uvjeti korištenja</a>
             </li>
+
           </ul>
         </div>
       </div>
-      <hr class="my-6 border-gray-200 sm:mx-auto  lg:my-8" />
+      <hr class="my-4 border-gray-200 sm:mx-auto  lg:my-6" />
       <div class="sm:flex sm:items-center sm:justify-between">
         <span class="text-sm text-gray-500 sm:text-center ">© 2024 <a href="/" class="hover:underline">Parallel d.o.o.</a>
           Sva prava zadržana.
@@ -109,5 +104,6 @@
 .bg {
   background: rgb(1, 236, 154);
   background: linear-gradient(30deg, rgba(90, 211, 255, 0.31) 18%, rgba(193, 255, 127, 0.24) 80%);
+  box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
 }
 </style>

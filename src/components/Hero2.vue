@@ -1,5 +1,25 @@
 <template>
-  <section class="bg m-1 rounded-xl">
+  <section class="bg m-1 rounded-xl min-h-[99vh]">
+    <div class="max-w-screen-xl px-4 py-2 mx-auto">
+      <div class="flex items-center justify-evenly">
+        <!-- <ul class="flex flex-row font-medium mt-0 space-x-4 rtl:space-x-reverse text-sm">
+          <li>
+            <RouterLink to='/' :class="$route.path === '/' ? 'font-bold' : ''" class="text-gray-900  hover:underline"
+              aria-current="page">Naslovnica</RouterLink>
+          </li>
+          <li>
+            <RouterLink to='/onama' :class="$route.path === '/onama' ? 'font-bold' : ''"
+              class="text-gray-900 hover:underline">
+              O nama</RouterLink>
+          </li>
+
+        </ul> -->
+
+        <FooterComponent></FooterComponent>
+
+      </div>
+      <div class='text-center text-[10px]'>Riva 20, Rijeka</div>
+    </div>
     <div class="py-4 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
       <RouterLink to='/pripreme'
         class="inline-flex justify-between items-center py-1 px-1 pr-4 mb-7 text-sm text-gray-700 bg-white  shadow rounded-full   "
@@ -93,6 +113,7 @@
 
 <script setup>
   import { RouterLink } from 'vue-router';
+  import FooterComponent from './FooterComponent.vue';
 </script>
 
 <style scoped>

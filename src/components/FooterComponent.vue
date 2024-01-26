@@ -10,6 +10,24 @@
       </a>
     </li>
     <li>
+      <a class="phone" href="tel:+385917865619">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <i class="fa fa-envelope" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li>
+      <a class="phone" href="tel:+385917865619">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <i class="fa fa-map-marker" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li>
       <a class="facebook" target="_blank" href="https://www.facebook.com/poduke.parallel">
         <span></span>
         <span></span>
@@ -50,14 +68,14 @@ ul li {
 ul li a {
   display: block;
   position: relative;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
-  font-size: 20px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 24px;
   text-align: center;
   text-decoration: none;
   color: rgba(0, 0, 0, 0.851);
-  margin: 0 5px;
+  margin: 0 10px;
   transition: 0.5s;
 }
 
@@ -70,7 +88,7 @@ ul li a span:nth-child(1),
 ul li a span:nth-child(3) {
   width: 100%;
   height: 3px;
-  background: rgba(194, 196, 194, 0.851);
+  background: rgba(0, 217, 255, 0.426)
 }
 
 ul li a span:nth-child(1) {
