@@ -1,10 +1,10 @@
 
 
 <template>
-  <footer class="bg-white ">
-    <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+  <footer class="bg">
+    <div class="mx-auto w-full max-w-screen-xl px-4 pb-6 lg:pb-8">
 
-      <div class="md:flex md:justify-between">
+      <!-- <div class="md:flex md:justify-between">
 
         <div class="mb-6 md:mb-0">
           <a href="" class="flex items-center">
@@ -12,9 +12,9 @@
             <span class="self-center text-2xl font-semibold whitespace-nowrap ">Poduke Parallel</span>
           </a>
         </div>
-        <div class="px-4 mx-auto text-start md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
-          <span class="font-bold text-xl text-gray-400 uppercase">Svi Programi</span>
-          <div class='grid grid-cols-3 text-xs'>
+        <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
+          <span class="font-bold text-xl  uppercase">Svi Programi</span>
+          <div class='grid grid-cols-2 text-xs  p-5 rounded-xl'>
             <div class='flex justify-start border rounded-lg p-2 m-1 overflow-hidden items-start'
               v-for='item in programi'>
 
@@ -23,8 +23,8 @@
           </div>
         </div>
 
-      </div>
-      <hr class="my-6 border-gray-200 sm:mx-auto  lg:my-8" />
+      </div> -->
+      <hr class=" py-2 border-gray-200 w-full " />
       <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
 
         <div>
@@ -104,3 +104,10 @@
     "Regulacija i upravljanje",
   ]
 </script>
+
+<style scoped>
+.bg {
+  background: rgb(1, 236, 154);
+  background: linear-gradient(30deg, rgba(90, 211, 255, 0.31) 18%, rgba(193, 255, 127, 0.24) 80%);
+}
+</style>
