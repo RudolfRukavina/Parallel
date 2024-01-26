@@ -9,7 +9,7 @@
   <main>
     <!-- <Hero></Hero> -->
     <Hero2></Hero2>
-    <Event></Event>
+    <!-- <Event></Event> -->
     <Footer></Footer>
   </main>
 </template>
