@@ -13,7 +13,7 @@
           </a>
         </div>
         <div class="px-4 mx-auto text-start md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
-          <span class="font-bold text-xl text-gray-400 uppercase">Programi</span>
+          <span class="font-bold text-xl text-gray-400 uppercase">Svi Programi</span>
           <div class='grid grid-cols-3 text-xs'>
             <div class='flex justify-start border rounded-lg p-2 m-1 overflow-hidden items-start'
               v-for='item in programi'>

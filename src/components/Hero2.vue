@@ -42,7 +42,7 @@
           </RouterLink>
         </div>
         <div>
-          <RouterLink to='/pripreme'
+          <RouterLink to='/instrukcije'
             class="inline-flex w-72 justify-between items-center py-1 px-1 pr-4 mb-3 text-sm text-gray-700 bg-white  shadow rounded-full   "
             role="alert"> <span class="text-md px-5 py-1 font-bold">Instrukcije</span>
             <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -53,7 +53,7 @@
           </RouterLink>
         </div>
         <div>
-          <RouterLink to='/pripreme'
+          <RouterLink to='/seminari'
             class="inline-flex w-72 justify-between items-center py-1 px-1 pr-4 mb-3 text-sm text-gray-700 bg-white  shadow rounded-full   "
             role="alert"> <span class="text-md px-5 py-1 font-bold">Pomoć u pisanju seminara</span>
             <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -64,7 +64,7 @@
           </RouterLink>
         </div>
         <div>
-          <RouterLink to='/pripreme'
+          <RouterLink to='/natjecanja'
             class="inline-flex w-72 justify-between items-center py-1 px-1 pr-4 mb-3 text-sm text-gray-700 bg-white  shadow rounded-full   "
             role="alert"> <span class="text-md px-5 py-1 font-bold">Priprema za natjecanja</span>
             <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -75,7 +75,7 @@
           </RouterLink>
         </div>
         <div>
-          <RouterLink to='/pripreme'
+          <RouterLink to='/organizacija'
             class="inline-flex w-72 justify-between items-center py-1 px-1 pr-4 mb-3 text-sm text-gray-700 bg-white  shadow rounded-full   "
             role="alert"> <span class="text-md px-5 py-1 font-bold">Organizacija seminara</span>
             <svg class="ml-2 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">

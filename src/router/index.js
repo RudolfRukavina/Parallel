@@ -11,9 +11,20 @@ const router = createRouter({
     },
     {
       path: '/onama',
-      name: 'about',
+      name: 'onama',
       component: () => import('../views/AboutView.vue')
-    }
+    },
+        {
+      path: '/pripreme',
+      name: 'pripreme',
+      component: () => import('../views/PripremeView.vue')
+    },
+    {
+      path: '/instrukcije',
+      name: 'instrukcije',
+      component: () => import('../views/InstrukcijeView.vue')
+    },
+
   ]
 })
 
